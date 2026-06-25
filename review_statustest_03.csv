@@ -1,0 +1,3 @@
+code,questionnaire_group,item_code,item_parent_code,item_main_item,item_name,url,item_image_url,item_description,item_price,item_post_status,item_like,item_categories,user_code,user_email,user_last_name,user_first_name,user_nickname,user_gender,user_url,created_at,rate,nickname,title,comment,additional_point,useful,unuseful,notice_count,pickup,status,user_agent,memo
+5b8520805c0039598500000a,,test003,,,,,,,,,,,user003,,,,,,,,,,,,,,,,,user_deleted,,
+5b8520665c0039598b00001d,,test003,,,,,,,,,,,user003,,,,,,,,,,,,,,,,,user_deleted,,
